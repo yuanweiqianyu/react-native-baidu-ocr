@@ -1,7 +1,7 @@
 {
   "name": "react-native-baidu-ocr",
   "title": "React Native Baidu Ocr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RN百度云OCR组件库",
   "main": "index.js",
   "scripts": {
