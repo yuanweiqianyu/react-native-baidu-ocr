@@ -17,16 +17,11 @@ Pod::Spec.new do |s|
   s.source       = { :git => package['repository']['url'] }
 
   s.source_files = "ios/**/*.{h,m}"
-  s.vendored_frameworks = 'lib/ios/*.framework'
-
-  s.resource_bundles = {
-  'BaiduOcr' => ['lib/ios/*.framework']
-  }
 
   s.requires_arc = true
 
   s.dependency "React"
-  #s.dependency "others"
+  s.dependency "BaiduOcr"
 end
 
 

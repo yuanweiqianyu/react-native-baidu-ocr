@@ -4,6 +4,11 @@
 #import "RCTBridgeModule.h"
 #endif
 
+#import <Foundation/Foundation.h>
+#import <React/RCTLog.h>
+#import <AipOcrSdk/AipOcrSdk.h>
+#import <UIKit/UIKit.h>
+
 @interface RNBaiduOcr : NSObject <RCTBridgeModule>
 
 @end
