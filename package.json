@@ -1,0 +1,36 @@
+{
+  "name": "react-native-baidu-ocr",
+  "title": "React Native Baidu Ocr",
+  "version": "1.0.0",
+  "description": "RN百度云OCR组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanweiqianyu/react-native-baidu-ocr.git",
+    "baseUrl": "https://github.com/yuanweiqianyu/react-native-baidu-ocr"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "panzhenzhen",
+    "email": "panzhenzhen@58qf.com"
+  },
+  "license": "Apache-2.0",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "16.2.0",
+    "react-native": "^0.52.0",
+    "react-native-windows": "0.52.0"
+
+  },
+  "devDependencies": {
+    "react": "16.2.0",
+    "react-native": "^0.52.0",
+    "react-native-windows": "0.52.0"
+  }
+}
